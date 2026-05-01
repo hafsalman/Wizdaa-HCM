@@ -1,5 +1,4 @@
-# Technical Requirements Document (TRD)
-## Time-Off Microservice — ReadyOn Platform
+# Time-Off Microservice — ReadyOn Platform
 **Stack**: NestJS · TypeORM · Supabase (PostgreSQL) · Fastify Mock HCM · React + Vite
 
 ---
